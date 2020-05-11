@@ -1,4 +1,5 @@
 //This program gets the nth term of a fibonacci sequence and prints it to the screen
+//NB:Error handling has not been properly implememted on this code, hence the code is likely very buggy
 
 use std::io;
 
